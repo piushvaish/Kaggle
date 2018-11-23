@@ -1,6 +1,6 @@
-# Project Title
+# Kaggle Projects
 
-The repository contains notes and work undertaken.
+The repository contains notes and work that has been done till date.
 
 ## Getting Started
 
